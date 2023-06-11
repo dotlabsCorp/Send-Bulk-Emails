@@ -34,7 +34,7 @@ const SUPPORT_EMAIL = "soporte@dotlabs.academy"
  * Change these to match the column names you are using for email 
  * recipient addresses and email sent column.
 */
-const RECIPIENT_COL  = "Correo";
+const RECIPIENT_COL  = "Dirección de correo electrónico";
 const EMAIL_SENT_COL = "Email Sent";
  
 /** 
